@@ -1,0 +1,2 @@
+#!/bin/bash
+ifonly ls -l hello=guillaume chown vincent hello
