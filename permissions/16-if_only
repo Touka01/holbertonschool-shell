@@ -1,2 +1,2 @@
 #!/bin/bash
-ifonly ls -l hello=guillaume chown vincent hello
+if ls -l hello=guillaume then chown vincent hello
