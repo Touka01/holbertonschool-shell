@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -p uog+x .
+find . -type d -exec chmod +x
