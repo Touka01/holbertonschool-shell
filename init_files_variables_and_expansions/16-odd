@@ -1,2 +1,2 @@
 #!/bin/bash
-ls - 13579
+ls | perl -ne 'print if $. % 2 = = 1'
