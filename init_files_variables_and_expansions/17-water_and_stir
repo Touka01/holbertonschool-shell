@@ -1,2 +1,2 @@
 #!/bin/bash
-export $(($WATER + $STIR))
+export $(($WATER + $STIR))=$bestchol
